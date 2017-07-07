@@ -1,8 +1,8 @@
 {
-  "name": "vue-huarun-m",
+  "name": "pillarhou-home",
   "version": "1.0.0",
-  "description": "华润手机web端",
-  "author": "shihuijie",
+  "description": "侯栋樑的个人主页",
+  "author": "pillarhou<pillarhou@yeah.net>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
